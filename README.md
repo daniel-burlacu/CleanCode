@@ -1,11 +1,10 @@
-# CleanCode
-Some rules to apply when coding having a clean code mind set !
+#Clean Code Rules
+Some rules to apply when coding, having a clean code mind set !
 
-<h1>Clean Code Rules</h1>
 <h2><bold>Naming</bold></h2>
 <p>&nbsp;&nbsp; - Use <b>descriptive and meaningful names.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; - <b> - Variables & Properties:</b>&nbsp;&nbsp;nouns or short phrases with adjectives;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; - <b> - Functions & Methods:</b>&nbsp;&nbsp;verbs or short phrases with adjectives;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; - <b>Variables & Properties:</b>&nbsp;&nbsp;nouns or short phrases with adjectives;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; - <b>Functions & Methods:</b>&nbsp;&nbsp;verbs or short phrases with adjectives;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; - <b>Classes:</b>&nbsp;&nbsp;Nouns</p>
 <p>&nbsp;&nbsp; - Be as<b>specific</b> as necesary and possible but don't be redundant;</p>
 <p>&nbsp;&nbsp; - Use<b>yes/no</b> question for booleans(e.g. isValid);</p>
