@@ -1,4 +1,4 @@
-#Clean Code Rules
+<h1>Clean Code Rules</h1>
 Some rules to apply when coding, having a clean code mind set !
 
 <h2><bold>Naming</bold></h2>
