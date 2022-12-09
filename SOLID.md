@@ -1,6 +1,6 @@
 <h1>SOLID Principles<h1>
 
-<h2><b>S – Single Responsibility Principle – SRP – (most important for clean code)</b><h2>
+<h2><b>S – Single Responsibility Principle – SRP – (most important for clean code)</b></h2>
 <p>&nbsp;&nbsp; - <b>Cohesion</b></p> 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	“Every software component should have one and only one responsibility.”;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Cohesion is the degree to which the various parts of a software component are related;</p>
