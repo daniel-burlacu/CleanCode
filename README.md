@@ -3,7 +3,7 @@ Some rules to apply when coding having a clean code mind set !
 
 
 <h1>Clean Code Rules</h1>
-<h2>Naming</h2>
+<h2><bold>Naming</bold></h2>
 <p>&nbsp;&nbsp;<b>Variables</b>&<b>Properties</b>/</p>
 <p>&nbsp;&nbsp;<b>Functions</b>&<b>Methods</b>/</p>
 <p>&nbsp;&nbsp;<b>Classes</b>/</p>
