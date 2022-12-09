@@ -1,11 +1,7 @@
 # CleanCode
 Some rules to apply when coding having a clean code mind set !
 
-<style>
-h1 {text-align: center;}
-</style>
-
-<h1>Clean Code Rules</h1>
+                                                                    <h1>Clean Code Rules</h1>
 <h2><bold>Naming</bold></h2>
 &nbsp;&nbsp;<p>Use <b>descriptive and meaningful names.</p></h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<b>Variables & Properties:</b>&nbsp;&nbsp;nouns or short phrases with adjectives;</p>
