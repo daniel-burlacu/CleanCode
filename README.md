@@ -1,6 +1,9 @@
 # CleanCode
 Some rules to apply when coding having a clean code mind set !
 
+<style>
+h1 {text-align: center;}
+</style>
 
 <h1>Clean Code Rules</h1>
 <h2><bold>Naming</bold></h2>
