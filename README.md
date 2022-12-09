@@ -41,7 +41,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Consider using <b>polimorfism</b> & <b>factory functions</b>;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - <b>Extract control structures </b>into separate functions;</p>
 <p>&nbsp;&nbsp; - Consider using <b>"real" errors</b> (with error handling) instead of "synthetic errors" build with if statements;</p>  
-<h2>Objects&Classes</h2>
+<h2>Objects & Classes</h2>
 <p>&nbsp;&nbsp; - Focus on building <b>"real objects"</b> or <b>data containers/structures</b>;</p>
 <p>&nbsp;&nbsp; - Build <b>small classes</b> - focus on a <b>single responsibility</b>(which does not mean "single method");</p>
 <p>&nbsp;&nbsp; - Build classes with <b>high cohesion</b>;</p>
